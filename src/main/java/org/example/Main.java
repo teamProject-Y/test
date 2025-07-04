@@ -4,11 +4,10 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
- Yullc
         System.out.println("yunzi zzang xx 절대");
 
         System.out.println("yunzi zzang");
         System.out.println("yunzi zzang zzang");
- main
+
     }
 }
